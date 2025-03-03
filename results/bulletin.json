@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "course": "COMP 3000",
+      "title": "COMP 3000 Seminar: The Real World  (1 Credit)"
+    },
+    {
+      "course": "COMP 3372",
+      "title": "COMP 3372 Advanced Algorithms  (4 Credits)"
+    },
+    {
+      "course": "COMP 3441",
+      "title": "COMP 3441 Introduction to Probability and Statistics for Data Science  (4 Credits)"
+    },
+    {
+      "course": "COMP 3455",
+      "title": "COMP 3455 Shell Scripting and System Tools  (4 Credits)"
+    },
+    {
+      "course": "COMP 3681",
+      "title": "COMP 3681 Networking for Games  (4 Credits)"
+    },
+    {
+      "course": "COMP 3701",
+      "title": "COMP 3701 Topics in Computer Graphics  (4 Credits)"
+    },
+    {
+      "course": "COMP 3702",
+      "title": "COMP 3702 Topics in Database  (4 Credits)"
+    },
+    {
+      "course": "COMP 3703",
+      "title": "COMP 3703 Topics-Artificial Intelligence  (4 Credits)"
+    },
+    {
+      "course": "COMP 3704",
+      "title": "COMP 3704 Advanced Topics: Systems  (4 Credits)"
+    },
+    {
+      "course": "COMP 3705",
+      "title": "COMP 3705 Topics in Computer Science  (1-4 Credits)"
+    },
+    {
+      "course": "COMP 3732",
+      "title": "COMP 3732 Human-Centered Data Security and Privacy  (4 Credits)"
+    },
+    {
+      "course": "COMP 3991",
+      "title": "COMP 3991 Independent Study  (1-10 Credits)"
+    },
+    {
+      "course": "COMP 3995",
+      "title": "COMP 3995 Independent Research  (1-10 Credits)"
+    }
+  ]
+}
